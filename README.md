@@ -6,7 +6,7 @@
 |---|---|
 | $Arabic_O$	| <audio controls> <source src="audios/SY_O.mp3" type="audio/mpeg"> </audio> |
 | $British_O$	| <audio controls> <source src="audios/GB_O.mp3" type="audio/mpeg"> </audio> |
-| $Mandarin_O$	| <audio controls> <source src="audios/NL_O.mp3" type="audio/mpeg"> </audio> |
+| $Mandarin_O$	| <audio controls> <source src="audios/CN_O.mp3" type="audio/mpeg"> </audio> |
 | $Nigerian_O$	| <audio controls> <source src="audios/NG_O.mp3" type="audio/mpeg"> </audio> |
 | $USA_O$	| <audio controls> <source src="audios/US_O.mp3" type="audio/mpeg"> </audio> |
 | $Arabig_G$	| <audio controls> <source src="audios/SY_G.mp3" type="audio/mpeg"> </audio> |
