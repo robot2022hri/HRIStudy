@@ -9,7 +9,7 @@
 | Mandarin<sub>O</sub>	| <audio controls> <source src="audios/CN_O.mp3" type="audio/mpeg"> </audio> |
 | Nigerian<sub>O</sub>	| <audio controls> <source src="audios/NG_O.mp3" type="audio/mpeg"> </audio> |
 | USA<sub>O</sub>	| <audio controls> <source src="audios/US_O.mp3" type="audio/mpeg"> </audio> |
-| Arabig<sub>G</sub>	| <audio controls> <source src="audios/SY_G.mp3" type="audio/mpeg"> </audio> |
+| Arabic<sub>G</sub>	| <audio controls> <source src="audios/SY_G.mp3" type="audio/mpeg"> </audio> |
 | British<sub>G</sub>	| <audio controls> <source src="audios/GB_G.mp3" type="audio/mpeg"> </audio> |
 | Dutch<sub>G</sub>	| <audio controls> <source src="audios/NL_G.mp3" type="audio/mpeg"> </audio> |
 | French<sub>G</sub>	| <audio controls> <source src="audios/FR_G.mp3" type="audio/mpeg"> </audio> |
