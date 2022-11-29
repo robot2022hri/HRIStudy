@@ -1,5 +1,0 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: "Let's Face It, It's Not Pronounced Enough: A Study on Stereotypical Ethnic Representations in HRI"
-description: "Audio samples"
